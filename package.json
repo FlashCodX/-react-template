@@ -1,6 +1,6 @@
 {
-  "homepage": "https://FlashCodX.github.io/React App Template/",
-  "name": "faq",
+  "homepage": "https://FlashCodX.github.io/React-App-Template/",
+  "name": "react-template",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
