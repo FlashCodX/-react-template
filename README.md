@@ -4,7 +4,7 @@
 
 A react JS template with css resets, and file structure.
 
-Clone and install all needed dependencies.
+Clone and install all needed dependencies
 
 ```sh
 $ git clone https://github.com/FlashCodX/react-template
